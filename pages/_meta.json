@@ -1,0 +1,25 @@
+{
+  "index": "首页",
+  "ustc": "校内",
+  "difang": "地方",
+  "huoguo": "火锅",
+  "shaokao": "烧烤",
+  "yexiao": "夜宵",
+  "faq": "常见问题",
+  "main-page": {
+    "title": "首页",
+    "type": "page",
+    "href": "/"
+  },
+  "about": {
+    "title": "关于",
+    "type": "page",
+    "href": "/about"
+  },
+  "contact": {
+    "title": "联系 ↗",
+    "type": "page",
+    "href": "https://github.com/iw17",
+    "newWindow": true
+  }
+}
