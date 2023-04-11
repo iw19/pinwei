@@ -1,10 +1,10 @@
 {
   "index": "首页",
-  "ustc": "校内",
-  "difang": "地方",
+  "xiaonei": "校内",
   "huoguo": "火锅",
   "shaokao": "烧烤",
   "yexiao": "夜宵",
+  "difang": "地方菜系",
   "faq": "常见问题",
   "main-page": {
     "title": "首页",
